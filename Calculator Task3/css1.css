@@ -1,0 +1,40 @@
+.formstyle
+{
+width: 370px;
+height: 400px;
+margin: 20px auto;
+border: 3px solid red;
+border-radius: 5px;
+padding: 20px;
+text-align: center;
+background-color: grey;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: red;
+	color: white;
+	}
+input:hover
+{
+background-color: red;
+}
+.btn{
+width: 60px;
+height: 60px;
+font-size: 25px;
+margin: 3px;
+cursor: pointer;
+background-color:black;
+color: white;
+
+}
+.textview{
+width: 243px;
+margin: 5px;
+font-size: 25px;
+padding: 7px;
+background-color: white;
+}	
+	
